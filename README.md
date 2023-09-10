@@ -1,6 +1,8 @@
 # Pizza_Sales_Dashboard
 Pizza Place Sales Analysis project! 🍕
 
+
+
 Overview:
 This repository contains a comprehensive dataset capturing an entire year's worth of sales from a fictitious pizza place. The dataset includes essential details such as the date and time of each order, the specific pizzas served, along with additional information on the type, size, quantity, price, and ingredients of each pizza.
 
@@ -39,3 +41,5 @@ Average_revenue - $16.82
 
 Conclusion
 Pizza orders and revenue maintains an upward trajectory from the beginning of the week Sunday and peaks on Friday before it starts dropping, this means most people prefer to eat pizza towards and during the weekend. Most people prefer to have the Pepperoni pizza for lunch on Fridays. It is advisable to make available tables and chairs to be able to accomodate the influx of the weekend, we can also explore the option of delivery services. The Ingrdients for Pepperoni pizza should be made readily available and in large quantities on or before Fridays. Since more orders are received on Fridays, a discount policy can be introduced every last Friday of the month where a customer gets 1 extra pizza when they buy 3 and above, this will encourage them to buy more.
+
+Dataset that I have used is taken from Mavenanalytics
